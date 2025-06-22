@@ -2,7 +2,6 @@ import requests
 import json
 import string
 import random
-import pretty_errors
 import time
 import multiprocessing
 import sys
